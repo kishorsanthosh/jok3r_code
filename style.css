@@ -1,0 +1,54 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.jobs
+{
+    padding: 1.3rem;
+    margin: .1rem;
+}
+
+.job
+{
+    color: #000000;
+    font-size: 0.9rem;
+}
+
+.jobs1
+{
+    padding-top: 1.3rem;
+    padding-right: 1.3rem;
+    padding-left: 1.3rem;
+}
+
+.aligns{
+    padding-top: 1.3rem;
+    padding-right: 1.3rem;
+    padding-left: 1.3rem;
+    
+}
+
+.butt{
+    outline: none;
+}
+
+.cardses{
+    padding: 1rem;
+    margin-top: -1rem;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.rating{
+    font-size: 13px;
+}
+
+ .rating__star {
+    cursor: pointer;
+ }
+
+ #widths{
+    width: 23.5%;
+ }
+ 
